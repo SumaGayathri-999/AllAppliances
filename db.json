@@ -1,0 +1,257 @@
+{
+    "single_appliance": {
+      "serialNo": "JTD-512312",
+      "theatreName": "Kriplle Square",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Qube",
+      "bandwidth": "1 Gbps",
+      "avgBandwidth": "812 Kbps",
+      "planStartDate": "2023-10-21T10:00:00Z",
+      "billingCycle": "Monthly",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Failed",
+      "osVersion": "5.2.1.3",
+      "storage": "828 GB"
+    },
+    "appliances": [
+      {
+        "serialNo": "JTD-512312",
+        "theatreName": "Kriplle Square",
+        "location": {
+          "city": "New Delhi",
+          "state": "Delhi",
+          "country": "India"
+        },
+        "ispPaymentResponsibility": "Qube",
+        "bandwidth": "1 Gbps",
+        "avgBandwidth": "812 Kbps",
+        "planStartDate": "2023-10-21T10:00:00Z",
+        "billingCycle": "Monthly",
+        "deviceStatus": "Offline",
+        "downloadStatus": "Failed",
+        "osVersion": "5.2.1.3",
+        "storage": "828 GB"
+      },
+      {
+        "serialNo": "JTD-512313",
+        "theatreName": "Example Theater",
+        "location": {
+          "city": "Los Angeles",
+          "state": "California",
+          "country": "United States"
+        },
+        "ispPaymentResponsibility": "Example",
+        "bandwidth": "500 Mbps",
+        "avgBandwidth": "400 Kbps",
+        "planStartDate": "2023-09-15T10:00:00Z",
+        "billingCycle": "Quarterly",
+        "deviceStatus": "Online",
+        "downloadStatus": "Cancelled",
+        "osVersion": "6.0.0",
+        "storage": "500 GB"
+      },
+      {
+        "serialNo": "JTD-512314",
+        "theatreName": "Test Cinema",
+        "location": {
+          "city": "London",
+          "state": "England",
+          "country": "United Kingdom"
+        },
+        "ispPaymentResponsibility": "Test",
+        "bandwidth": "2 Gbps",
+        "avgBandwidth": "1.2 Mbps",
+        "planStartDate": "2023-11-01T10:00:00Z",
+        "billingCycle": "Annual",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloading",
+        "osVersion": "7.1.0",
+        "storage": "1 TB"
+      },
+      {
+        "serialNo": "JTD-512315",
+        "theatreName": "Sample Movie House",
+        "location": {
+          "city": "Sydney",
+          "state": "New South Wales",
+          "country": "Australia"
+        },
+        "ispPaymentResponsibility": "Sample",
+        "bandwidth": "800 Mbps",
+        "avgBandwidth": "700 Kbps",
+        "planStartDate": "2023-12-05T10:00:00Z",
+        "billingCycle": "Monthly",
+        "deviceStatus": "Offline",
+        "downloadStatus": "Succeeded",
+        "osVersion": "8.0.0",
+        "storage": "1.5 TB"
+      },
+      {
+        "serialNo": "JTD-512316",
+        "theatreName": "Demo Multiplex",
+        "location": {
+          "city": "Tokyo",
+          "state": "Tokyo",
+          "country": "Japan"
+        },
+        "ispPaymentResponsibility": "Demo",
+        "bandwidth": "3 Gbps",
+        "avgBandwidth": "2.5 Mbps",
+        "planStartDate": "2024-01-01T10:00:00Z",
+        "billingCycle": "Quarterly",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloading",
+        "osVersion": "8.2.1",
+        "storage": "2 TB"
+      },
+      {
+        "serialNo": "JTD-588312",
+        "theatreName": "Kriplle Square",
+        "location": {
+          "city": "New Delhi",
+          "state": "Delhi",
+          "country": "India"
+        },
+        "ispPaymentResponsibility": "Qube",
+        "bandwidth": "1 Gbps",
+        "avgBandwidth": "812 Kbps",
+        "planStartDate": "2023-10-21T10:00:00Z",
+        "billingCycle": "Monthly",
+        "deviceStatus": "Offline",
+        "downloadStatus": "Failed",
+        "osVersion": "5.2.1.3",
+        "storage": "828 GB"
+      },
+      {
+        "serialNo": "JTD-5122312",
+        "theatreName": "Kriplle Square",
+        "location": {
+          "city": "New Delhi",
+          "state": "Delhi",
+          "country": "India"
+        },
+        "ispPaymentResponsibility": "Qube",
+        "bandwidth": "1 Gbps",
+        "avgBandwidth": "812 Kbps",
+        "planStartDate": "2023-10-21T10:00:00Z",
+        "billingCycle": "Monthly",
+        "deviceStatus": "Offline",
+        "downloadStatus": "Failed",
+        "osVersion": "5.2.1.3",
+        "storage": "828 GB"
+      },
+      {
+        "serialNo": "JTD-1112312",
+        "theatreName": "Kriplle Square",
+        "location": {
+          "city": "New Delhi",
+          "state": "Delhi",
+          "country": "India"
+        },
+        "ispPaymentResponsibility": "Qube",
+        "bandwidth": "1 Gbps",
+        "avgBandwidth": "812 Kbps",
+        "planStartDate": "2023-10-21T10:00:00Z",
+        "billingCycle": "Monthly",
+        "deviceStatus": "Offline",
+        "downloadStatus": "Failed",
+        "osVersion": "5.2.1.3",
+        "storage": "828 GB"
+      },
+      {
+        "serialNo": "JTD-3312312",
+        "theatreName": "Kriplle Square",
+        "location": {
+          "city": "New Delhi",
+          "state": "Delhi",
+          "country": "India"
+        },
+        "ispPaymentResponsibility": "Qube",
+        "bandwidth": "1 Gbps",
+        "avgBandwidth": "812 Kbps",
+        "planStartDate": "2023-10-21T10:00:00Z",
+        "billingCycle": "Monthly",
+        "deviceStatus": "Offline",
+        "downloadStatus": "Failed",
+        "osVersion": "5.2.1.3",
+        "storage": "828 GB"
+      },
+      {
+        "serialNo": "TD-9912312",
+        "theatreName": "Kriplle Square",
+        "location": {
+          "city": "New Delhi",
+          "state": "Delhi",
+          "country": "India"
+        },
+        "ispPaymentResponsibility": "Qube",
+        "bandwidth": "1 Gbps",
+        "avgBandwidth": "812 Kbps",
+        "planStartDate": "2023-10-21T10:00:00Z",
+        "billingCycle": "Monthly",
+        "deviceStatus": "Offline",
+        "downloadStatus": "Failed",
+        "osVersion": "5.2.1.3",
+        "storage": "828 GB"
+      },
+      {
+        "serialNo": "JTD-512388",
+        "theatreName": "Kriplle Square",
+        "location": {
+          "city": "New Delhi",
+          "state": "Delhi",
+          "country": "India"
+        },
+        "ispPaymentResponsibility": "Qube",
+        "bandwidth": "1 Gbps",
+        "avgBandwidth": "812 Kbps",
+        "planStartDate": "2023-10-21T10:00:00Z",
+        "billingCycle": "Monthly",
+        "deviceStatus": "Offline",
+        "downloadStatus": "Failed",
+        "osVersion": "5.2.1.3",
+        "storage": "828 GB"
+      },
+      {
+        "serialNo": "JTD-512300",
+        "theatreName": "Kriplle Square",
+        "location": {
+          "city": "New Delhi",
+          "state": "Delhi",
+          "country": "India"
+        },
+        "ispPaymentResponsibility": "Qube",
+        "bandwidth": "1 Gbps",
+        "avgBandwidth": "812 Kbps",
+        "planStartDate": "2023-10-21T10:00:00Z",
+        "billingCycle": "Monthly",
+        "deviceStatus": "Offline",
+        "downloadStatus": "Failed",
+        "osVersion": "5.2.1.3",
+        "storage": "828 GB"
+      },
+      {
+        "serialNo": "JTD-512291",
+        "theatreName": "Kriplle Square",
+        "location": {
+          "city": "New Delhi",
+          "state": "Delhi",
+          "country": "India"
+        },
+        "ispPaymentResponsibility": "Qube",
+        "bandwidth": "1 Gbps",
+        "avgBandwidth": "812 Kbps",
+        "planStartDate": "2023-10-21T10:00:00Z",
+        "billingCycle": "Monthly",
+        "deviceStatus": "Offline",
+        "downloadStatus": "Failed",
+        "osVersion": "5.2.1.3",
+        "storage": "828 GB"
+      }
+    ]
+  }
+  

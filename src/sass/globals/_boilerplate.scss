@@ -1,0 +1,43 @@
+
+html{
+    box-sizing:border-box;
+    font-size:100%;
+}
+
+*,*::after,*::before{
+    box-sizing:inherit;
+}
+
+body{
+    margin:0px;
+    // padding:16px 24px;
+    // background-color:#d1dce5 !important;
+    background-color: #f5f8fa !important;
+}
+
+a{
+    text-decoration: none;
+    color:inherit;
+}
+
+.Offline,
+.Failed,
+.Stalled,
+.Archieved {
+    background-color: #CF1322;
+}
+
+.Online,
+.Succeeded {
+    background-color: #0D7C2D;
+}
+
+.Cancelled,
+.Scheduled {
+    background-color: #F0A203;
+}
+
+.Unarchiving,
+.Downloading {
+    background-color: #1d81e3;
+}
